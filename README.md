@@ -1,12 +1,28 @@
-👋 Hi, I’m Muhammed Yazeen M M
-🎓 Computer Science & Engineering (Hons.) student @ Ilahia College of Engineering & Technology (2022–2026)
-💡 Passionate about app development, AI-driven solutions, and UI/UX design
-🚀 Skilled in Flutter, Git, Figma, C, Java, Python, SQL
-🛠️ Built projects like CAMPANION PRO – an AI-powered study tool with Llama AI integration
-💼 Internship: Application Development Intern @ Genzee Technologies (Flutter, real-world app development, Git collaboration)
-🏆 Hackathon: Designed UI/UX for “Rescue” app, secured 6th place @ IEEE ICET Beyond the Loop Hackathon
-🌍 Languages: English, Malayalam
+$ whoami
+> Muhammed Yazeen M M
 
-📫 Reach me at: myazeen88@gmail.com
+$ cat about_me.txt
+> 🎓 B.Tech Computer Science & Engineering (Hons.) | ICET (2022–2026)
+> 💡 Passionate about app development, AI, and UI/UX design
+> 🚀 Exploring Flutter, Git, Figma, C, Java, Python, SQL
 
-🔗 LinkedIn: mhmd-yazeen
+$ ls experience/
+> Genzee_Technologies_Internship/
+    ├── Role: Application Development Intern
+    ├── Tech: Flutter, Git
+    └── Focus: Real-world mobile app development
+
+$ ls projects/
+> CAMPANION_PRO/
+    ├── AI-driven study assistant
+    ├── Powered by Llama AI
+    └── Features: Active recall, spaced repetition, peer collaboration
+
+$ ls achievements/
+> IEEE_ICET_Hackathon/
+    ├── Project: "Rescue" app
+    └── Result: 6th place among 30 teams
+
+$ echo "Contact"
+> 📧 myazeen88@gmail.com
+> 🔗 linkedin.com/in/mhmd-yazeen
