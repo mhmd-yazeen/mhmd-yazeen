@@ -1,138 +1,84 @@
+# Muhammed Yazeen M M
+
 <div align="center">
-
-# Hi, I'm Muhammed Yazeen 👋
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=300&size=20&duration=2500&pause=800&color=6366F1&center=true&vCenter=true&width=600&height=50&lines=Computer+Science+Engineering+Student;Flutter+%26+AI+Developer;UI%2FUX+Design+Enthusiast;Building+the+Future+with+Code" alt="Typing Animation" />
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=300&size=24&duration=2500&pause=800&color=6366F1&center=true&vCenter=true&width=500&height=60&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;UI%2FUX+Designer" alt="Typing Animation" />
 </div>
 
 ---
 
-## 🚀 About Me
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mhmd-yazeen&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=f59e0b&text_color=e5e7eb&count_private=true&include_all_commits=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mhmd-yazeen&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=6366F1&ring=F59E0B&fire=F59E0B&currStreakLabel=E5E7EB" />
+</div></div>
 
-Computer Science undergraduate at **Ilahia College of Engineering** with hands-on experience in cross-platform app development, AI integration, and UI/UX design. Passionate about creating user-focused solutions that make a real impact.
+## About
 
-```typescript
-const yazeen = {
-    education: "B.Tech CSE @ Ilahia College of Engineering",
-    experience: "Application Development Intern @ Genzee Technologies",
-    focus: "AI-powered mobile applications with Flutter",
-    achievements: [
-        "🏆 9th place at IEEE ICET Hackathon (30+ teams)",
-        "🌟 Best Intern at Genzee Technologies",
-        "📱 Built Campanion Pro - AI study assistant (100+ users)"
-    ],
-    currentlyWorking: "Cross-platform mobile apps with AI integration"
-};
-```
+Computer Science undergraduate at Ilahia College of Engineering with hands-on experience in cross-platform app development, API integration, and AI implementation. Proven ability to lead in collaborative projects, internships, and hackathons. Skilled at delivering user-focused solutions that improve functionality and experience.
 
----
-
-## 🛠️ Tech Arsenal
+## Stack
 
 <div align="center">
-
-### Languages & Frameworks
-<img src="https://skillicons.dev/icons?i=flutter,dart,python,java,c&theme=dark" />
-
-### Mobile & Backend
-<img src="https://skillicons.dev/icons?i=firebase,androidstudio,mysql&theme=dark" />
-
-### Design & Tools
-<img src="https://skillicons.dev/icons?i=figma,adobexd,git,vscode&theme=dark" />
-
+  <table>
+    <tr>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40"/><br><sub>Flutter</sub></td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" height="40"/><br><sub>Dart</sub></td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/><br><sub>Python</sub></td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/><br><sub>Java</sub></td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/><br><sub>C</sub></td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40"/><br><sub>Firebase</sub></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/><br><sub>Figma</sub></td>
+      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xd/xd-plain.svg" width="40" height="40"/><br><sub>Adobe XD</sub></td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/><br><sub>MySQL</sub></td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/><br><sub>Git</sub></td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" height="40"/><br><sub>Android</sub></td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="40" height="40"/><br><sub>iOS</sub></td>
+    </tr>
+  </table>
 </div>
 
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-<table>
-<tr>
-<td align="center" style="padding: 0px">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mhmd-yazeen&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-</td>
-<td align="center" style="padding: 0px">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmd-yazeen&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&exclude_repo=mhmd-yazeen" />
-</td>
-</tr>
-</table>
-</div>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mhmd-yazeen&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
-## 🏆 Achievements & Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=mhmd-yazeen&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4" />
-</div>
-
----
-
-## 💼 Featured Projects
-
-<div align="center">
-
-| Project | Description | Tech Stack | Status |
-|---------|-------------|------------|--------|
-| **🤖 Campanion Pro** | AI-powered study assistant for students | Flutter, Firebase, LLaMA AI | ✅ Live (100+ users) |
-| **🆘 Rescue App** | Emergency response application | Flutter, Maps API | 🏆 IEEE Hackathon 9th Place |
-| **📱 Mobile Apps Portfolio** | Collection of Flutter applications | Flutter, Dart, Firebase | 🚧 Ongoing |
-
-</div>
-
----
-
-## 🎯 Current Focus
-
-<div align="center">
+## Currently
 
 ```yaml
-🔥 Building: AI-integrated mobile applications with Flutter
-🌱 Learning: Advanced ML/AI integration, Cloud architecture  
-🚀 Goals: Contributing to open source, Building scalable apps
-💡 Interests: Cross-platform development, AI/ML, User experience
+focus: Building AI-powered mobile applications with Flutter & Firebase
+experience:
+  - Application Development Intern at Genzee Technologies
+  - Developed 2 production-ready mobile apps
+  - Integrated LLaMA AI for personalized learning experiences
+achievements:
+  - "Campanion Pro" AI study assistant used by 100+ students
+  - 9th place at IEEE ICET Hackathon (30+ teams)
+  - Best Intern recognition at Genzee Technologies
+technologies:
+  - Cross-platform mobile development (Flutter/Dart)
+  - AI integration (LLaMA AI)
+  - Backend services (Firebase, REST APIs)
+  - UI/UX design (Figma, Adobe XD)
 ```
 
-</div>
-
----
-
-## 📈 Contribution Activity
+## Languages & Skills
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mhmd-yazeen&theme=tokyo-night&hide_border=true&bg_color=1a1b27" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmd-yazeen&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=e5e7eb&card_width=500&langs_count=8&exclude_repo=mhmd-yazeen" />
 </div>
 
----
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,python,java,c,firebase,figma,adobexd,mysql,git,androidstudio,vscode&theme=dark" />
+</div>
 
-## 🤝 Let's Connect
+## Connect
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-yazin-61b57b370/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mhmd-yazeen)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:myazeen88@gmail.com)
-
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-yazin-61b57b370/)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mhmd-yazeen)
+  [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:myazeen88@gmail.com)
+  
 </div>
 
 ---
 
 <div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=mhmd-yazeen&label=Profile%20views&color=6366f1&style=flat" alt="Profile views" />
-
-<br><br>
-
-**"First, solve the problem. Then, write the code."** - *John Johnson*
-
-<br>
-
-<sub>⭐ From [mhmd-yazeen](https://github.com/mhmd-yazeen) | Built with ❤️ and lots of ☕</sub>
-
+  <sub>Built with ❤️ using GitHub README stats</sub>
 </div>
