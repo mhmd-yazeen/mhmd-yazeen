@@ -1,4 +1,4 @@
-# Muhammed Yazeen M M
+                                       # Muhammed Yazeen M M
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=300&size=24&duration=2500&pause=800&color=6366F1&center=true&vCenter=true&width=500&height=60&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;UI%2FUX+Designer" alt="Typing Animation" />
@@ -7,9 +7,9 @@
 ---
 
 <div align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=mhmd-yazeen&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=f59e0b&text_color=e5e7eb" />
-  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=mhmd-yazeen&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=6366F1&ring=F59E0B&fire=F59E0B&currStreakLabel=E5E7EB" />
-</div>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mhmd-yazeen&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=f59e0b&text_color=e5e7eb&count_private=true&include_all_commits=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mhmd-yazeen&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=6366F1&ring=F59E0B&fire=F59E0B&currStreakLabel=E5E7EB" />
+</div></div>
 
 ## About
 
@@ -57,10 +57,14 @@ technologies:
   - UI/UX design (Figma, Adobe XD)
 ```
 
-## Languages
+## Languages & Skills
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=e5e7eb&card_width=500" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmd-yazeen&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=e5e7eb&card_width=500&langs_count=8&exclude_repo=mhmd-yazeen" />
+</div>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,python,java,c,firebase,figma,adobexd,mysql,git,androidstudio,vscode&theme=dark" />
 </div>
 
 ## Connect
