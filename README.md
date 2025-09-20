@@ -1,4 +1,4 @@
-                                       # Muhammed Yazeen M M
+# Muhammed Yazeen M M
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=300&size=24&duration=2500&pause=800&color=6366F1&center=true&vCenter=true&width=500&height=60&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;UI%2FUX+Designer" alt="Typing Animation" />
