@@ -1,45 +1,43 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Muhammed%20Yazeen%20M%20M&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Flutter%20Expert&descAlignY=60&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Muhammed%20Yazeen&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Flutter%20Expert&descAlignY=51&descAlign=50" />
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mhmd-yazeen&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/mhmd-yazeen?label=Followers&style=flat-square&color=blue" alt="followers" />
-  <img src="https://visitor-badge.glitch.me/badge?page_id=mhmd-yazeen.mhmd-yazeen" alt="Visitors" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=1000&color=F59E0B&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;Flutter+Expert;UI%2FUX+Designer;Always+Learning+%26+Building" />
 </div>
-
----
-
-## 🚀 About Me - Building Intelligent Apps
 
 <p align="center">
-  <img align="right" alt="Coding" width="450" src="https://user-images.githubusercontent.com/74038190/212683053-4b5344d5-ed80-4828-98e3-05b1c57e514f.gif">
-  
+  <img src="https://komarev.com/ghpvc/?username=mhmd-yazeen&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/mhmd-yazeen?label=Followers&style=flat-square&color=blue" alt="followers" />
 </p>
-<br>
-
-I'm a **Computer Science undergraduate** driven by a passion for creating seamless, intelligent digital experiences. As an **Application Development Intern** (and **Best Intern** recipient) at Genzee Technologies, I specialize in the full-stack mobile development lifecycle.
-
-- **Flutter/Dart Expert:** Developed **2 production-ready mobile apps** serving **100+ active users**.
-- **AI/ML Integration:** Specialized in embedding AI capabilities (like LLaMA) to enhance app functionality.
-- **Design Focused:** Expert in **UI/UX Design** using Figma & Adobe XD to ensure great user adoption.
-- **Collaborator:** Proven ability to lead and excel in team environments (e.g., securing **9th Place** at the IEEE ICET Hackathon).
-
-<br clear="right"/>
 
 ---
 
-## 💡 Key Highlights
+## 👨‍💻 About Me
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=2000&pause=500&color=6366F1&center=true&vCenter=true&width=800&height=40&lines=🎯+Campanion+Pro+-+AI+study+assistant+serving+100%2B+students;⭐+Best+Intern+Recognition+at+Genzee+Technologies;📱+Deployed+2+Production-ready+Mobile+Applications;🤝+9th+Place+at+IEEE+ICET+Hackathon" alt="Highlight Animation" />
-</div>
+🎓 Computer Science student at Ilahia College of Engineering  
+💼 Application Development Intern at Genzee Technologies  
+🏆 Best Intern Award winner  
+🚀 Built 2 production apps with 100+ active users  
+🤖 Specialized in AI/ML integration with mobile apps  
+🎨 Expert in UI/UX Design using Figma & Adobe XD  
+⚡ Love creating seamless user experiences  
+📍 Based in Kerala, India  
 
 ---
 
-## 🛠️ My Technology Arsenal
+## 🔥 Highlights  
 
-The table below breaks down my core stack. I use these technologies to build scalable and user-focused solutions.
+- 🎯 **Campanion Pro** – AI study assistant serving 100+ students  
+- 🥉 **9th Place** – IEEE ICET Hackathon (30+ teams)  
+- ⭐ **Best Intern Recognition** – Genzee Technologies  
+- 📱 **2 Production-ready apps** deployed  
+- 🤝 Strong **collaborative development** record  
+
+---
+
+## 🛠️ My Arsenal  
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart,python,java,c,firebase,figma,xd,git,vscode,androidstudio,mysql&perline=6&theme=dark" />
@@ -48,49 +46,51 @@ The table below breaks down my core stack. I use these technologies to build sca
 <table align="center">
   <tr>
     <td align="center" width="33%">
-      <strong>🎨 Frontend & Design</strong><br><br>
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+      <strong>🎨 Frontend</strong><br><br>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /><br>
     </td>
     <td align="center" width="33%">
-      <strong>⚙️ Backend & Data</strong><br><br>
-      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+      <strong>⚙️ Backend</strong><br><br>
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" /><br>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /><br>
     </td>
     <td align="center" width="33%">
-      <strong>🤖 AI/API</strong><br><br>
-      <img src="https://img.shields.io/badge/LLaMA%20AI-8B5CF6?style=for-the-badge&logo=ai&logoColor=white" />
-      <img src="https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+      <strong>🤖 AI/ML</strong><br><br>
+      <img src="https://img.shields.io/badge/LLaMA-8B5CF6?style=for-the-badge&logo=ai&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Integration-00D9FF?style=for-the-badge&logo=integromat&logoColor=white" /><br>
     </td>
   </tr>
 </table>
 
 ---
 
-## 📊 GitHub Analytics & Contributions
+## 📊 GitHub Analytics  
 
-<div align="center">
+<p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mhmd-yazeen&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mhmd-yazeen&theme=radical&hide_border=true" />
-</div>
-<br>
-<div align="center">
+</p>
+
+<p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmd-yazeen&layout=compact&theme=radical&hide_border=true&langs_count=8" />
   <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=mhmd-yazeen&theme=react-dark&hide_border=true&area=true" />
-</div>
-<br>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mhmd-yazeen&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7" />
-</div>
-
-<br>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mhmd-yazeen/mhmd-yazeen/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
 
-## 🎯 What's Next? (Current Focus)
+## 🏆 Achievements  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mhmd-yazeen&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7" />
+</p>
+
+---
+
+## 🎯 Current Focus  
 
 <table align="center">
   <tr>
@@ -119,7 +119,7 @@ The table below breaks down my core stack. I use these technologies to build sca
 
 ---
 
-## 🌐 Connect & Quote
+## 🌍 Connect With Me  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/muhammad-yazin-61b57b370/">
@@ -133,11 +133,26 @@ The table below breaks down my core stack. I use these technologies to build sca
   </a>
 </p>
 
+---
+
+## 💭 Quote of the Day  
+
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
+---
+
+## 🐍 Contribution Graph  
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
-  <br>Made with ❤️ by Muhammed Yazeen
+  <img src="https://raw.githubusercontent.com/mhmd-yazeen/mhmd-yazeen/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
+  <br>
+  <sub>Made with ❤️ by Muhammed Yazeen | "Code is like humor. When you have to explain it, it's bad."</sub>
 </div>
