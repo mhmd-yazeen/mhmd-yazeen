@@ -1,158 +1,85 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Muhammed%20Yazeen&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Flutter%20Expert&descAlignY=51&descAlign=50" />
-</div>
+# Muhammed Yazeen M M
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=1000&color=F59E0B&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;Flutter+Expert;UI%2FUX+Designer;Always+Learning+%26+Building" />
-</div>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mhmd-yazeen&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/mhmd-yazeen?label=Followers&style=flat-square&color=blue" alt="followers" />
-</p>
-
----
-
-## 👨‍💻 About Me
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
-
-🎓 Computer Science student at Ilahia College of Engineering  
-💼 Application Development Intern at Genzee Technologies  
-🏆 Best Intern Award winner  
-🚀 Built 2 production apps with 100+ active users  
-🤖 Specialized in AI/ML integration with mobile apps  
-🎨 Expert in UI/UX Design using Figma & Adobe XD  
-⚡ Love creating seamless user experiences  
-📍 Based in Kerala, India  
-
----
-
-## 🔥 Highlights  
-
-- 🎯 **Campanion Pro** – AI study assistant serving 100+ students  
-- 🥉 **9th Place** – IEEE ICET Hackathon (30+ teams)  
-- ⭐ **Best Intern Recognition** – Genzee Technologies  
-- 📱 **2 Production-ready apps** deployed  
-- 🤝 Strong **collaborative development** record  
-
----
-
-## 🛠️ My Arsenal  
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,python,java,c,firebase,figma,xd,git,vscode,androidstudio,mysql&perline=6&theme=dark" />
-</p>
-
-<table align="center">
-  <tr>
-    <td align="center" width="33%">
-      <strong>🎨 Frontend</strong><br><br>
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /><br>
-    </td>
-    <td align="center" width="33%">
-      <strong>⚙️ Backend</strong><br><br>
-      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" /><br>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /><br>
-    </td>
-    <td align="center" width="33%">
-      <strong>🤖 AI/ML</strong><br><br>
-      <img src="https://img.shields.io/badge/LLaMA-8B5CF6?style=for-the-badge&logo=ai&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Integration-00D9FF?style=for-the-badge&logo=integromat&logoColor=white" /><br>
-    </td>
-  </tr>
-</table>
-
----
-
-## 📊 GitHub Analytics  
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mhmd-yazeen&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mhmd-yazeen&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmd-yazeen&layout=compact&theme=radical&hide_border=true&langs_count=8" />
-  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=mhmd-yazeen&theme=react-dark&hide_border=true&area=true" />
-</p>
-
----
-
-## 🏆 Achievements  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mhmd-yazeen&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7" />
-</p>
-
----
-
-## 🎯 Current Focus  
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://img.icons8.com/fluency/96/000000/artificial-intelligence.png" width="50" height="50" />
-      <br><strong>AI Integration</strong>
-      <br><sub>Building intelligent apps</sub>
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/fluency/96/000000/flutter.png" width="50" height="50" />
-      <br><strong>Flutter Development</strong>
-      <br><sub>Cross-platform excellence</sub>
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/fluency/96/000000/firebase.png" width="50" height="50" />
-      <br><strong>Backend Services</strong>
-      <br><sub>Scalable architecture</sub>
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/fluency/96/000000/design.png" width="50" height="50" />
-      <br><strong>UI/UX Design</strong>
-      <br><sub>Beautiful interfaces</sub>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🌍 Connect With Me  
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/muhammad-yazin-61b57b370/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:myazeen88@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/mhmd-yazeen">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
-## 💭 Quote of the Day  
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
-
----
-
-## 🐍 Contribution Graph  
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/mhmd-yazeen/mhmd-yazeen/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=300&size=24&duration=2500&pause=800&color=6366F1&center=true&vCenter=true&width=500&height=60&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;UI%2FUX+Designer" alt="Typing Animation" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
-  <br>
-  <sub>Made with ❤️ by Muhammed Yazeen | "Code is like humor. When you have to explain it, it's bad."</sub>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mhmd-yazeen&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=f59e0b&text_color=e5e7eb&count_private=true&include_all_commits=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mhmd-yazeen&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=6366F1&ring=F59E0B&fire=F59E0B&currStreakLabel=E5E7EB" />
+</div></div>
+
+## About
+
+Computer Science undergraduate at Ilahia College of Engineering with hands-on experience in cross-platform app development, API integration, and AI implementation. Proven ability to lead in collaborative projects, internships, and hackathons. Skilled at delivering user-focused solutions that improve functionality and experience.
+
+## Stack
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40"/><br><sub>Flutter</sub></td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" height="40"/><br><sub>Dart</sub></td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/><br><sub>Python</sub></td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/><br><sub>Java</sub></td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/><br><sub>C</sub></td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40"/><br><sub>Firebase</sub></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/><br><sub>Figma</sub></td>
+      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xd/xd-plain.svg" width="40" height="40"/><br><sub>Adobe XD</sub></td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/><br><sub>MySQL</sub></td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/><br><sub>Git</sub></td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" height="40"/><br><sub>Android</sub></td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="40" height="40"/><br><sub>iOS</sub></td>
+    </tr>
+  </table>
 </div>
+
+## Currently
+
+```yaml
+focus: Building AI-powered mobile applications with Flutter & Firebase
+experience:
+  - Application Development Intern at Genzee Technologies
+  - Developed 2 production-ready mobile apps
+  - Integrated LLaMA AI for personalized learning experiences
+achievements:
+  - "Campanion Pro" AI study assistant used by 100+ students
+  - 9th place at IEEE ICET Hackathon (30+ teams)
+  - Best Intern recognition at Genzee Technologies
+technologies:
+  - Cross-platform mobile development (Flutter/Dart)
+  - AI integration (LLaMA AI)
+  - Backend services (Firebase, REST APIs)
+  - UI/UX design (Figma, Adobe XD)
+```
+
+## Languages & Skills
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmd-yazeen&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=e5e7eb&card_width=500&langs_count=8&exclude_repo=mhmd-yazeen" />
+</div>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,python,java,c,firebase,figma,adobexd,mysql,git,androidstudio,vscode&theme=dark" />
+</div>
+
+## Connect
+
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-yazin-61b57b370/)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mhmd-yazeen)
+  [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:myazeen88@gmail.com)
+  
+</div>
+
+---
+
+<div align="center">
+  <sub>Built with ❤️ using GitHub README stats</sub>
+</div>
+
