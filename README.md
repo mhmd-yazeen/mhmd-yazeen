@@ -84,6 +84,4 @@ technologies:
 mm
 mm
 mm
-mm
-mm
-mm
+
