@@ -9,7 +9,11 @@
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mhmd-yazeen&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=f59e0b&text_color=e5e7eb&count_private=true&include_all_commits=true" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mhmd-yazeen&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=6366F1&ring=F59E0B&fire=F59E0B&currStreakLabel=E5E7EB" />
-</div></div>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" />
+</div>
 
 ## About
 
@@ -55,30 +59,20 @@ technologies:
   - AI integration (LLaMA AI)
   - Backend services (Firebase, REST APIs)
   - UI/UX design (Figma, Adobe XD)
-```
-
-## Languages & Skills
-
+Languages & Skills
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmd-yazeen&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=e5e7eb&card_width=500&langs_count=8&exclude_repo=mhmd-yazeen" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmd-yazeen&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=e5e7eb&card_width=500&langs_count=8&exclude_repo=mhmd-yazeen" />
 </div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,python,java,c,firebase,figma,adobexd,mysql,git,androidstudio,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,python,java,c,firebase,figma,adobexd,mysql,git,androidstudio,vscode&theme=dark" />
 </div>
 
-## Connect
+Connect
+<div align="center">
+
+</div>
 
 <div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-yazin-61b57b370/)
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mhmd-yazeen)
-  [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:myazeen88@gmail.com)
-  
+<sub>Built with ❤️ using GitHub README stats</sub>
 </div>
-
----
-<div align="center">
-  <sub>Built with ❤️ using GitHub README stats</sub>
-</div>
-
