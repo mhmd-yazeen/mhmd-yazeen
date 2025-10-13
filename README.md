@@ -56,7 +56,7 @@ experience:
   - Integrated LLaMA AI for personalized learning experiences
 achievements:
   - "Campanion Pro" AI study assistant used by 100+ students
-  - 5th place at IEEE ICET Hackathon (30+ teams)
+  - 9th place at IEEE ICET Hackathon (30+ teams)
   - Best Intern recognition at Genzee Technologies
 technologies:
   - Cross-platform mobile development (Flutter/Dart)
