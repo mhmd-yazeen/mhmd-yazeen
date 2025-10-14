@@ -105,10 +105,6 @@ experience:
   - Application Development Intern at Genzee Technologies
   - Developed 2 production-ready mobile apps
   - Integrated LLaMA AI for personalized learning experiences
-achievements:
-  - "Campanion Pro" AI study assistant used by 100+ students
-  - 9th place at IEEE ICET Hackathon (30+ teams)
-  - Best Intern recognition at Genzee Technologies
 technologies:
   - Cross-platform mobile development (Flutter/Dart)
   - AI integration (LLaMA AI)
