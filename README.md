@@ -99,29 +99,25 @@ technologies:
   - AI integration (LLaMA AI)
   - Backend services (Firebase, REST APIs)
   - UI/UX design (Figma, Adobe XD)
-
----
-
-## 🧩 Languages & Tools
-
+🧩 Languages & Tools
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmd-yazeen&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=e5e7eb&card_width=500&langs_count=8&exclude_repo=mhmd-yazeen" alt="Top Languages" />
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,python,java,c,firebase,figma,adobexd,mysql,git,androidstudio,vscode&theme=dark" alt="Skill Icons"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmd-yazeen&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=e5e7eb&card_width=500&langs_count=8&exclude_repo=mhmd-yazeen" alt="Top Languages" />
+
+
+
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,python,java,c,firebase,figma,adobexd,mysql,git,androidstudio,vscode&theme=dark" alt="Skill Icons"/>
 </div>
 
----
-
-## 🌐 Connect with Me
-
+🌐 Connect with Me
 <div align="center">
-  <a href="mailto:muhammed.yazeen.mm@email.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://linkedin.com/in/muhammed-yazeen-m-m">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/mhmd-yazeen">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
+<a href="mailto:muhammed.yazeen.mm@email.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+<a href="https://www.google.com/search?q=https://linkedin.com/in/muhammed-yazeen-m-m">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://github.com/mhmd-yazeen">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
 </div>
