@@ -1,4 +1,4 @@
-# Muhammed Yazeen M M  
+# Muhammed Yazeen M M
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=300&size=24&duration=2500&pause=800&color=6366F1&center=true&vCenter=true&width=500&height=60&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;UI%2FUX+Designer" alt="Typing Animation" />
@@ -19,66 +19,66 @@
 
 ---
 
-## 🧑‍💻 About Me  
+## 🧑‍💻 About Me
 
-Computer Science undergraduate at Ilahia College of Engineering with hands-on experience in cross-platform app development, API integration, and AI implementation. Proven ability to lead in collaborative projects, internships, and hackathons. Skilled at delivering user-focused solutions that improve functionality and experience.
+I'm a Computer Science undergraduate at Ilahia College of Engineering with hands-on experience in cross-platform app development, API integration, and AI implementation. I have a proven ability to lead in collaborative projects, internships, and hackathons, and I am skilled at delivering user-focused solutions that improve functionality and experience.
 
 ---
 
-## 🧰 My Tech Stack  
+## 🧰 My Tech Stack
 
 <div align="center">
   <table>
     <tr>
       <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40" alt="Flutter" /><br>
-        <sub>Flutter</sub>
+        <sub><b>Flutter</b></sub>
       </td>
       <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" height="40" alt="Dart" /><br>
-        <sub>Dart</sub>
+        <sub><b>Dart</b></sub>
       </td>
       <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" /><br>
-        <sub>Python</sub>
+        <sub><b>Python</b></sub>
       </td>
       <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" /><br>
-        <sub>Java</sub>
+        <sub><b>Java</b></sub>
       </td>
       <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C" /><br>
-        <sub>C</sub>
+        <sub><b>C</b></sub>
       </td>
       <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40" alt="Firebase" /><br>
-        <sub>Firebase</sub>
+        <sub><b>Firebase</b></sub>
       </td>
     </tr>
     <tr>
       <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" alt="Figma" /><br>
-        <sub>Figma</sub>
+        <sub><b>Figma</b></sub>
       </td>
       <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" width="40" height="40" alt="Adobe XD" /><br>
-        <sub>Adobe XD</sub>
+        <sub><b>Adobe XD</b></sub>
       </td>
       <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" /><br>
-        <sub>MySQL</sub>
+        <sub><b>MySQL</b></sub>
       </td>
       <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" /><br>
-        <sub>Git</sub>
+        <sub><b>Git</b></sub>
       </td>
       <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" height="40" alt="Android" /><br>
-        <sub>Android</sub>
+        <sub><b>Android</b></sub>
       </td>
       <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="40" height="40" alt="iOS" /><br>
-        <sub>iOS</sub>
+        <sub><b>iOS</b></sub>
       </td>
     </tr>
   </table>
@@ -86,7 +86,7 @@ Computer Science undergraduate at Ilahia College of Engineering with hands-on ex
 
 ---
 
-## 🎯 Current Focus & Achievements  
+## 🎯 Current Focus & Achievements
 
 ```yaml
 focus: Building AI-powered mobile applications with Flutter & Firebase
@@ -99,8 +99,4 @@ technologies:
   - AI integration (LLaMA AI)
   - Backend services (Firebase, REST APIs)
   - UI/UX design (Figma, Adobe XD)
-🧩 Languages & Tools
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmd-yazeen&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=e5e7eb&card_width=500&langs_count=8&exclude_repo=mhmd-yazeen" alt="Top Languages" /> </div> <div align="center"> <img src="https://skillicons.dev/icons?i=flutter,dart,python,java,c,firebase,figma,adobexd,mysql,git,androidstudio,vscode&theme=dark" alt="Skill Icons"/> </div>
-🌐 Connect with Me
-<div align="center"> <a href="mailto:youremail@example.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"> </a> <a href="https://linkedin.com/in/your-linkedin-profile"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> <a href="https://github.com/mhmd-yazeen"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> </a> </div>
-<div align="center"> <sub>Built with ❤️ using GitHub README stats</sub> </div> ```
+
