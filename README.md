@@ -258,10 +258,6 @@ We  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-origin
 
 🔧 Full Stack Development - Experienced across frontend, backend, and database technologies
 
-👥 Team Leadership - Led collaborative projects and hackathon teams successfully
-
-🌐 Connect with Me
-
 <div align="center">
 
 </div>
