@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👨‍💻 Muhammed Yazeen M M
+# 👨‍💻 Muhammed Yazeen
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%26+Mobile+Enthusiast;Building+Smart+Solutions;Flutter+Developer" alt="Typing SVG" />
 
