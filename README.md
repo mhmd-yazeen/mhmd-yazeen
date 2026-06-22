@@ -1,84 +1,113 @@
 <div align="center">
-  
-# 👨‍💻 Muhammed Yazeen
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%26+Mobile+Enthusiast;Building+Smart+Solutions;Flutter+Developer" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=120&section=header&text=Muhammed%20Yazeen&fontSize=36&fontColor=fff&fontAlignY=65&desc=Flutter%20·%20AI%2FML%20·%20Full%20Stack&descSize=14&descAlignY=85&animation=fadeIn" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=mhmd-yazeen&color=6366F1&style=for-the-badge&label=PROFILE+VIEWS)
+<samp><b>// portfolio · v2026</b></samp>
+
+![Profile Views](https://komarev.com/ghpvc/?username=mhmd-yazeen&color=6366F1&style=flat-square&label=profile+views)
 
 </div>
 
 ---
 
-## 👋 About Me
+## `whoami`
 
-Computer Science student with a passion for building intelligent mobile applications. Currently interning at **Genzee Technologies**, where I develop AI-powered solutions using Flutter and modern technologies.
+```bash
+$ cat about.txt
+```
+```
+Final-year CS Engineering student @ Ilahia College of Engineering (2026)
+Interning @ Genzee Technologies → Best Intern 🏆
+Building AI-native mobile apps that actually ship.
+```
 
-- 🔭 Working on **AI-integrated mobile applications**
-- 🌱 Learning **Advanced ML implementations & Cloud Architecture**
-- 💼 **Application Development Intern** @ Genzee Technologies
-- 🎯 Focus: **Flutter, AI/ML, Full Stack Development**
-- 📍 Based in **Kerala, India**
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mhmd-yazeen&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=E5E7EB&count_private=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmd-yazeen&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=E5E7EB&langs_count=6" alt="Top Languages" />
-</div>
+- 🔭 &nbsp;Working on **LLM-powered mobile applications**
+- 🌱 &nbsp;Learning **Advanced ML · Cloud Architecture**
+- 💼 &nbsp;**Application Dev Intern** @ Genzee Technologies
+- 📍 &nbsp;Kerala, India &nbsp;·&nbsp; Open to full-time roles
 
 ---
 
-## 🛠️ Technology Stack
+## `stack`
+
+```dart
+final stack = {
+  'mobile'  : ['Flutter', 'Dart', 'Android'],
+  'backend' : ['Python', 'Flask', 'Firebase', 'MongoDB', 'SQL'],
+  'ai'      : ['LLaMA', 'LangChain', 'n8n'],
+  'infra'   : ['Docker', 'Git', 'Figma'],
+  'web'     : ['React'],
+};
+```
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,python,java,c,firebase,mysql,ai,figma,git&theme=dark" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,python,firebase,react,mongodb,docker,figma,git,java&theme=dark&perline=10" />
 </p>
 
 ---
 
-## 🎯 Key Achievements
+## `featured[]`
+
+<table>
+<tr>
+<td width="50%">
+
+**[Campanion Pro AI](https://github.com/mhmd-yazeen)**
+
+LLM-powered study assistant with personalized learning flows and adaptive quiz generation.
+
+`Flutter` `LLaMA` `Firebase` `AI`
+
+</td>
+<td width="50%">
+
+**[FlexiBook.ai](https://github.com/mhmd-yazeen)**
+
+AI-driven appointment scheduling platform built for real business operations.
+
+`Flutter` `Python` `MongoDB` `SaaS`
+
+</td>
+</tr>
+</table>
+
+---
+
+## `stats`
 
 <div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mhmd-yazeen&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=818CF8&text_color=94A3B8&count_private=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmd-yazeen&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=94A3B8&langs_count=6" />
+</div>
 
-| Achievement | Description |
-|-------------|-------------|
-| 📱 **Production Apps** | Developed **2+ production mobile applications** with real users |
-| 🤖 **AI Integration** | Successfully integrated **LLaMA AI** for personalized learning experiences |
-| 🏆 **Hackathons** | Led projects in **multiple hackathons** and collaborative team environments |
-| 🎨 **UI/UX Design** | Designed intuitive and beautiful **user interfaces** with focus on user experience |
-| 💼 **Professional Experience** | Currently contributing as **Application Development Intern** at Genzee Technologies |
-
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mhmd-yazeen&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=A78BFA&currStreakLabel=A78BFA" />
 </div>
 
 ---
 
-## 🤝 Let's Connect
+## `achievements`
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-profile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
-
-### 💬 Open for collaborations and exciting projects!
-
-</div>
+| | |
+|--|--|
+| 🏆 &nbsp;**IEEE ICET Hackathon** | Top 10 finish |
+| ⭐ &nbsp;**Best Intern** | Genzee Technologies |
+| 🎓 &nbsp;**6 Certifications** | IBM ML · Flutter · Google Firebase · Google UX · Atlassian Git · UC Davis SQL |
+| 📱 &nbsp;**2+ Production Apps** | Real users, real impact |
 
 ---
 
+## `connect`
+
 <div align="center">
-  
-### ⚡ Fun Fact
-*"Code is like humor. When you have to explain it, it's bad!"* 😄
 
-**Let's build something amazing together!** 🚀
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=flat-square&logo=vercel&logoColor=white)](https://your-portfolio.com)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/your-profile)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=100&section=footer" alt="Footer" />
+**Open for full-time roles · 2026**
 
 </div>
-mm
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=80&section=footer" />
