@@ -1,12 +1,14 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=110&section=header&text=Muhammed+Yazeen&fontSize=34&fontColor=ffffff&fontAlignY=65&desc=Flutter+·+AI%2FML+·+Full+Stack&descSize=13&descAlignY=84&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=120&section=header&text=Muhammed+Yazeen&fontSize=38&fontColor=ffffff&fontAlignY=60&desc=Flutter+·+AI%2FML+·+Full+Stack+Engineer&descSize=14&descAlignY=80&animation=fadeIn"/>
 
-`// open to work · 2026`
+`// Crafting intelligent mobile applications & scalable ecosystem solutions`
 
-![](https://komarev.com/ghpvc/?username=mhmd-yazeen&color=7c3aed&style=flat-square&label=profile+views)
-&nbsp;![](https://img.shields.io/badge/Kerala%2C%20India-0e0e1c?style=flat-square&labelColor=0e0e1c&color=1e1e3a)
-&nbsp;![](https://img.shields.io/badge/B.Tech%20CSE%202026-0e0e1c?style=flat-square&color=1e1e3a)
-&nbsp;![](https://img.shields.io/badge/Genzee%20Technologies-0e0e1c?style=flat-square&color=1e1e3a)
+<br/>
+
+![](https://komarev.com/ghpvc/?username=mhmd-yazeen&color=7c3aed&style=flat-square&label=Profile+Views)
+&nbsp;![](https://img.shields.io/badge/Based+In-Kerala%2C+India-0e0e1c?style=flat-square&labelColor=7c3aed&color=1e1e3a)
+&nbsp;![](https://img.shields.io/badge/Education-B.Tech+CSE+2026-0e0e1c?style=flat-square&labelColor=7c3aed&color=1e1e3a)
+&nbsp;![](https://img.shields.io/badge/Experience-Genzee+Technologies-0e0e1c?style=flat-square&labelColor=7c3aed&color=1e1e3a)
 
 </div>
 
@@ -14,64 +16,63 @@
 
 <div align="center">
 
+### ⚡ Quick Highlights
+
 | 📱 Apps Shipped | 🏆 IEEE ICET | 🎓 Certifications | ⭐ Recognition |
-|:-:|:-:|:-:|:-:|
-| **2+** | **Top 10** | **6** | **Best Intern** |
+| :---: | :---: | :---: | :---: |
+| **2+ Production Apps** | **Top 10 Finalist** | **6x Professional** | **Best Intern Award** |
 
 </div>
 
 ---
 
-### `projects`
+### 🛠️ Core Tech Stack
 
-<table>
+<div align="center">
+<p>An overview of the languages, frameworks, and developer tools I orchestrate daily:</p>
+
+![](https://img.shields.io/badge/Frontend-Flutter+--+Dart+--+React-7c3aed?style=for-the-badge&logoColor=white)
+![](https://img.shields.io/badge/Backend-Python+--+Flask+--+Firebase-1e1e3a?style=for-the-badge&logoColor=white)
+![](https://img.shields.io/badge/Data+--+DevOps-MongoDB+--+SQL+--+Docker-7c3aed?style=for-the-badge&logoColor=white)
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,python,firebase,react,flask,mongodb,postgres,docker,figma,git,html,css,java&theme=dark&perline=14"/>
+</div>
+
+---
+
+### 🚀 Highlighted Projects
+
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-**Campanion Pro AI**
-LLM-powered study assistant with adaptive quiz generation and personalized learning flows.
-`Flutter` `LLaMA` `Firebase`
+#### 🤖 Campanion Pro AI
+*An LLM-powered study ecosystem maximizing knowledge retention.*
+- 💡 Built **adaptive quiz generation engines** tailoring difficulty to user progression.
+- 🔄 Created personalized learning flows fueled by local/cloud AI pipelines.
+- 📱 Seamlessly structured data via Firebase with a stunning, high-performance Flutter UI.
 
+`Flutter` `Dart` `LLaMA` `Firebase` `NoSQL`
 </td>
+
 <td width="50%" valign="top">
 
-**FlexiBook.ai**
-AI-driven appointment scheduling platform built for real business operations.
-`Flutter` `Python` `MongoDB`
+#### 📅 FlexiBook.ai
+*Enterprise-grade, AI-driven appointment management platform.*
+- 🧠 Built custom intelligent scheduling algorithms natively with Python.
+- 🔌 Designed structural, low-latency REST APIs using a custom backend setup.
+- 💾 Scaled document storage schemas using MongoDB to support concurrent live bookings.
 
+`Flutter` `Python` `Flask` `MongoDB` `REST API`
 </td>
 </tr>
 </table>
 
 ---
 
-### `stack`
-
-```
-Flutter · Dart · Python · Firebase · React · Flask
-MongoDB · SQL · Docker · n8n · Figma · Git
-```
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=flutter,dart,python,firebase,react,mongodb,docker,figma,git,java&theme=dark&perline=10"/>
-</p>
-
----
-
-### `stats`
-
-<div align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=mhmd-yazeen&show_icons=true&theme=tokyonight&hide_border=true&bg_color=07070f&title_color=a78bfa&icon_color=7c3aed&text_color=94a3b8&count_private=true"/>
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmd-yazeen&layout=compact&theme=tokyonight&hide_border=true&bg_color=07070f&title_color=a78bfa&text_color=94a3b8&langs_count=6"/>
-</div>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=mhmd-yazeen&theme=tokyonight&hide_border=true&background=07070f&stroke=7c3aed&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa"/>
-</div>
-
----
-
-### `connect`
+### 🌐 Let's Connect
 
 <div align="center">
 
@@ -80,7 +81,7 @@ MongoDB · SQL · Docker · n8n · Figma · Git
 [![Email](https://img.shields.io/badge/Email-0e0e1c?style=for-the-badge&logo=gmail&logoColor=a78bfa)](mailto:your@email.com)
 [![GitHub](https://img.shields.io/badge/GitHub-0e0e1c?style=for-the-badge&logo=github&logoColor=a78bfa)](https://github.com/mhmd-yazeen)
 
-**Open for full-time roles · 2026**
+**🚀 Open for Full-Time Roles & Dynamic AI/Mobile Internships (2026)**
 
 </div>
 
@@ -88,7 +89,7 @@ MongoDB · SQL · Docker · n8n · Figma · Git
 
 <div align="center">
 
-`// snake · play on my portfolio`
+`// interactive contribution playground`
 
 [![snake gif](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)](https://your-portfolio.com)
 
