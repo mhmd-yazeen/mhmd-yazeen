@@ -76,9 +76,9 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0e0e1c?style=for-the-badge&logo=linkedin&logoColor=a78bfa)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0e0e1c?style=for-the-badge&logo=linkedin&logoColor=a78bfa)](https://www.linkedin.com/in/muhammad-yazin/?skipRedirect=true)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0e0e1c?style=for-the-badge&logo=vercel&logoColor=a78bfa)](https://your-portfolio.com)
-[![Email](https://img.shields.io/badge/Email-0e0e1c?style=for-the-badge&logo=gmail&logoColor=a78bfa)](mailto:your@email.com)
+[![Email](https://img.shields.io/badge/Email-0e0e1c?style=for-the-badge&logo=gmail&logoColor=a78bfa)](myazeen88@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-0e0e1c?style=for-the-badge&logo=github&logoColor=a78bfa)](https://github.com/mhmd-yazeen)
 
 **🚀 Open for Full-Time Roles & Dynamic AI/Mobile Internships (2026)**
