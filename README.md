@@ -42,14 +42,25 @@
 
 ---
 
+### 📊 GitHub Statistics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mhmd-yazeen&show_icons=true&theme=synthwave&bg_color=0e0e1c&title_color=7c3aed&text_color=ffffff&border_color=7c3aed&hide_border=false" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmd-yazeen&layout=compact&theme=synthwave&bg_color=0e0e1c&title_color=7c3aed&text_color=ffffff&border_color=7c3aed&hide_border=false" height="165" alt="Top Languages" />
+</div>
+
+---
+
 ### 🌐 Let's Connect
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0e0e1c?style=for-the-badge&logo=linkedin&logoColor=a78bfa)](https://www.linkedin.com/in/muhammad-yazin/?skipRedirect=true)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0e0e1c?style=for-the-badge&logo=vercel&logoColor=a78bfa)](https://your-portfolio.com)
-[![Email](https://img.shields.io/badge/Email-0e0e1c?style=for-the-badge&logo=gmail&logoColor=a78bfa)](myazeen88@gmail.com)
+[![Email](https://img.shields.io/badge/Email-0e0e1c?style=for-the-badge&logo=gmail&logoColor=a78bfa)](mailto:myazeen88@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-0e0e1c?style=for-the-badge&logo=github&logoColor=a78bfa)](https://github.com/mhmd-yazeen)
+
+<br/>
 
 **🚀 Open for Full-Time Roles & Dynamic AI/Mobile Internships (2026)**
 
