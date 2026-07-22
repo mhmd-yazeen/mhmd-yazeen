@@ -42,15 +42,6 @@
 
 ---
 
-### 📊 GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mhmd-yazeen&show_icons=true&theme=synthwave&bg_color=0e0e1c&title_color=7c3aed&text_color=ffffff&border_color=7c3aed&hide_border=false" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmd-yazeen&layout=compact&theme=synthwave&bg_color=0e0e1c&title_color=7c3aed&text_color=ffffff&border_color=7c3aed&hide_border=false" height="165" alt="Top Languages" />
-</div>
-
----
-
 ### 🌐 Let's Connect
 
 <div align="center">
