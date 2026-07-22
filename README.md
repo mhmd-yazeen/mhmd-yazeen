@@ -42,36 +42,6 @@
 
 ---
 
-### 🚀 Highlighted Projects
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-#### 🤖 Campanion Pro AI
-*An LLM-powered study ecosystem maximizing knowledge retention.*
-- 💡 Built **adaptive quiz generation engines** tailoring difficulty to user progression.
-- 🔄 Created personalized learning flows fueled by local/cloud AI pipelines.
-- 📱 Seamlessly structured data via Firebase with a stunning, high-performance Flutter UI.
-
-`Flutter` `Dart` `LLaMA` `Firebase` `NoSQL`
-</td>
-
-<td width="50%" valign="top">
-
-#### 📅 FlexiBook.ai
-*Enterprise-grade, AI-driven appointment management platform.*
-- 🧠 Built custom intelligent scheduling algorithms natively with Python.
-- 🔌 Designed structural, low-latency REST APIs using a custom backend setup.
-- 💾 Scaled document storage schemas using MongoDB to support concurrent live bookings.
-
-`Flutter` `Python` `Flask` `MongoDB` `REST API`
-</td>
-</tr>
-</table>
-
----
-
 ### 🌐 Let's Connect
 
 <div align="center">
